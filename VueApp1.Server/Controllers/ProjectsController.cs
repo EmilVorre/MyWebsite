@@ -43,7 +43,7 @@ public class ProjectsController : ControllerBase
             Title = "My Website",
             Description = "Created a personal hobby project: a website about myself, featuring a C# backend and a Vue.js frontend written in TypeScript.",
             Details = "Developed a personal website to promote the projects I’ve worked on and showcase my capabilities. The website is built using Vue.js with TypeScript for the frontend, while the backend is powered by C#, ensuring a fast and scalable experience for users.",
-            Link = new[] { "https://github.com/EmilVorre/AboutMeWebsite" }
+            Link = new[] { "https://github.com/EmilVorre/MyWebsite" }
         },
         new Project
         {
